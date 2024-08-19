@@ -21,18 +21,12 @@ Working with SaaS (Enquero Inc, LeadSquared, Tech Mahindra, Media.net) , CRM (Le
 - Working closely with agencies and media consultants to drive growth and marketing programs
 - Content Marketing aided with App Store Optimization and SEO: Cadence to App Store optimization for organic installs and driving SEO project cadence to increase Organic Traffic
 
-
-<!--
-**PyDaft/PyDaft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<H3>
 - 🔭 I’m currently working on solving problems in GTM tech stack and Product Marketing
 - 🌱 I’m currently learning Python & Tableau
 - 👯 I’m looking to collaborate on marketing, entrepreneurship, data science problems
 - 🤔 I’m looking for help with python, data sceince and how to solve more projects using Python
 - 💬 Ask me about - marketing, GTM, Sales, Tech Stack
 - 📫 How to reach me: drop me an email at abhineet.gupta@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am have two dogs, One is a lab called Google (as I owe a lot to Google) and other one is Karma
--->
+
+</H3>
