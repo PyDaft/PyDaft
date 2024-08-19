@@ -24,11 +24,11 @@ Working with SaaS (Enquero Inc, LeadSquared, Tech Mahindra, Media.net) , CRM (Le
 <b>- Content Marketing aided with App Store Optimization and SEO: </b> Cadence to App Store optimization for organic installs and driving SEO project cadence to increase Organic Traffic
 
 <H3>
-- 🔭 I’m currently working on solving problems in GTM tech stack and Product Marketing
-- 🌱 I’m currently learning Python & Tableau
-- 👯 I’m looking to collaborate on marketing, entrepreneurship, data science problems
-- 🤔 I’m looking for help with python, data sceince and how to solve more projects using Python
-- 💬 Ask me about - marketing, GTM, Sales, Tech Stack
-- 📫 How to reach me: drop me an email at abhineet.gupta@gmail.com
+- 🔭 I’m currently working on solving problems in GTM tech stack and Product Marketing <br>
+- 🌱 I’m currently learning Python & Tableau <br>
+- 👯 I’m looking to collaborate on marketing, entrepreneurship, data science problems <br>
+- 🤔 I’m looking for help with python, data sceince and how to solve more projects using Python <br>
+- 💬 Ask me about - marketing, GTM, Sales, Tech Stack<br>
+- 📫 How to reach me: drop me an email at abhineet.gupta@gmail.com <br>
 
 </H3>
