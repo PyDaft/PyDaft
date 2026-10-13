@@ -1,7 +1,7 @@
 <H1> About Me </H1><br>
 
 Hi Everyone,
-My name is Abhineet and I have 16+ years of experience in leading and driving P&L, business growth, and marketing in the B2B/SaaS and D2C industries. 
+My name is Abhineet and I have 16+ years of experience in leading and driving Product Marketing, GTM, business growth, and marketing in the Native AI - B2B/SaaS and D2C industries. 
 
 I have led sales and marketing teams (and more recently, product teams). In my stint as a marketing and business leader, I have driven growth, 
 marketing, & revenue roadmaps, crafted and implemented marketing strategies, GTM plans, product marketing, alliances & partnerships, and business development. product management, strategic initiatives, digital marketing, GTM tech stack, and data analytics.
